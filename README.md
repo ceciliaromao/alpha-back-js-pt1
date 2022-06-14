@@ -2,7 +2,7 @@
 
 # Back-End
 
-## Módulo 6 - JavaScript - Part 1
+## Módulo 7 - JavaScript - Part 1
 
 ### Exercícios de classe 🏫
 
@@ -17,4 +17,4 @@ d. Crie três arquivos (“index.html”, “index.js” e “index.css”);
 e. Agora crie uma página web que contenha uma frase “Olá Mundo!” utilizando a fonte do google “Roboto” (definida pelo arquivo “index.css”) e um botão que, ao ser clicado, mostre no console do navegador a palavra “Olá Console!”;
 f. Abra o arquivo “index.html” utilizando o “live server” para testar.
 
-###### tags: `módulo 6` `back-end` `JavaScript`
+###### tags: `módulo 7` `back-end` `JavaScript`
